@@ -13,6 +13,8 @@ Se a database for excluída com sucesso, a mensagem `DROP DATABASE` deve ser ret
 
 ## **Modelagem do Banco de Dados:**
 
+Antes de criarmos o banco de dados, é importante "modelar" ele para sabermos como ele vai funcionar:
+
 ```mermaid
 erDiagram 
     **PRODUTOS**{
