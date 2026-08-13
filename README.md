@@ -1,10 +1,10 @@
 # 📖 | **Conteúdo das Aulas:**
 
-> [Aula 01](https://github.com/gabriel-b-vitareli/BancoDeDados/tree/main/Aula%2001) | Configurando o Servidor (e MobaXterm) <br>
+> [Aula 01](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2001/anotacoes.md) | Configurando o Servidor (e MobaXterm) <br>
 > 
-> [Aula 02](https://github.com/gabriel-b-vitareli/BancoDeDados/tree/main/Aula%2002) | Acessando e Conectando o Servidor <br>
+> [Aula 02](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2002/anotacoes.md) | Acessando e Conectando o Servidor <br>
 > 
-> [Aula 03](https://github.com/gabriel-b-vitareli/BancoDeDados/tree/main/Aula%2003) | Gerenciando Databases e Tabelas <br>
+> [Aula 03](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2003/anotacoes.md) | Gerenciando Databases e Tabelas <br>
 
 ---
 
