@@ -5,7 +5,9 @@
 > [Aula 02](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2002/anotacoes.md) | Acessando e Conectando o Servidor <br>
 > 
 > [Aula 03](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2003/anotacoes.md) | Gerenciando Databases e Tabelas <br>
+> 
 > [Aula 04](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2004/anotacoes.md) | Editando e Gerenciando Registros <br>
+> 
 > [Aula 05](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2005/anotacoes.md) | Gerenciando Databases e Tabelas <br>
 
 ---
