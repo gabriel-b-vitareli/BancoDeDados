@@ -23,7 +23,7 @@ CREATE TABLE livros(
 
 --- 
 
-Em seguida, adicionamos os 200 livros com o código presente no arquivo `livros.sql`
+Em seguida, adicionamos os 200 livros com o código presente no arquivo [livros.sql](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Atividades/Atividade-03/livros.sql)
 
 ## ✏️ Atividades:
 
