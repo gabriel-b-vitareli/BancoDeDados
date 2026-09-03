@@ -1,4 +1,4 @@
-# Atividade Prática 05 — Análise de Dados
+# Atividade Prática 04 — Análise de Dados
 
 > Consultas SQL com PostgreSQL: da criação do banco até agregações e colunas calculadas.
 
