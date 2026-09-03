@@ -9,6 +9,8 @@
 > [Aula 04](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2004/anotacoes.md) | Editando e Gerenciando Registros <br>
 > 
 > [Aula 05](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2005/anotacoes.md) | Gerenciando Databases e Tabelas <br>
+>
+> [Aula 06](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Aula%2006/anotacoes.md) | Filtrando Resultados de Tabelas <br>
 
 ---
 
@@ -19,3 +21,5 @@
 > [Atividade 2](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Atividades/Atividade-02/README.md) | Criação de Streaming
 > 
 > [Atividade 3](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Atividades/Atividade-03/README.md) | Análise de Dados (Livraria)
+>
+> [Atividade 4](https://github.com/gabriel-b-vitareli/BancoDeDados/blob/main/Atividades/Atividade-04/README.md) | Análise de Dados (Loja de Informática)
