@@ -1,4 +1,4 @@
-# Aula 07 — Loja "Cyberstore" 🛒
+# Aula 06 — Loja "Cyberstore" 🛒
 
 Anotações sobre criação de tabela, inserção de dados e funções de agregação em SQL (PostgreSQL).
 
